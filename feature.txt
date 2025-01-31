@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 kosd meowww kohaku
+=======
+kosdsdsds
+>>>>>>> b5e388acbc1c1bb76c733885bf011edfe7fa1dd6
